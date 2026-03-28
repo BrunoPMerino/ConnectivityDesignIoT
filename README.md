@@ -59,5 +59,3 @@ Se eligió MQTT en lugar de HTTP debido a:
 - Nodos sensores → **Publishers**  
 - Servidor IoT → **Broker**  
 - Aplicaciones → **Subscribers**  
-
-Ejemplo de flujo:
